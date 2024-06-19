@@ -1,6 +1,5 @@
 Flask
-numpy==1.21.0
-pandas==1.3.0
-jinja2==3.0.1
+numpy
+pandas
 pickle5==0.0.11
 scikit-learn==1.1.2 
