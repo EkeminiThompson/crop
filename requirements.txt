@@ -1,4 +1,4 @@
-distutils
+setuptools>=42.0.0
 wheel>=0.36.0
 Flask==3.0.3
 Jinja2==3.1.4
@@ -10,5 +10,4 @@ six==1.16.0
 threadpoolctl==3.5.0
 tzdata==2024.1
 Werkzeug==3.0.3
-setuptools>=42.0.0
 
